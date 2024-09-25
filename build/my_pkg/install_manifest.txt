@@ -1,0 +1,15 @@
+/home/ellakiya/dev_ws/install/my_pkg/share/ament_index/resource_index/package_run_dependencies/my_pkg
+/home/ellakiya/dev_ws/install/my_pkg/share/ament_index/resource_index/parent_prefix_path/my_pkg
+/home/ellakiya/dev_ws/install/my_pkg/share/my_pkg/environment/ament_prefix_path.sh
+/home/ellakiya/dev_ws/install/my_pkg/share/my_pkg/environment/ament_prefix_path.dsv
+/home/ellakiya/dev_ws/install/my_pkg/share/my_pkg/environment/path.sh
+/home/ellakiya/dev_ws/install/my_pkg/share/my_pkg/environment/path.dsv
+/home/ellakiya/dev_ws/install/my_pkg/share/my_pkg/local_setup.bash
+/home/ellakiya/dev_ws/install/my_pkg/share/my_pkg/local_setup.sh
+/home/ellakiya/dev_ws/install/my_pkg/share/my_pkg/local_setup.zsh
+/home/ellakiya/dev_ws/install/my_pkg/share/my_pkg/local_setup.dsv
+/home/ellakiya/dev_ws/install/my_pkg/share/my_pkg/package.dsv
+/home/ellakiya/dev_ws/install/my_pkg/share/ament_index/resource_index/packages/my_pkg
+/home/ellakiya/dev_ws/install/my_pkg/share/my_pkg/cmake/my_pkgConfig.cmake
+/home/ellakiya/dev_ws/install/my_pkg/share/my_pkg/cmake/my_pkgConfig-version.cmake
+/home/ellakiya/dev_ws/install/my_pkg/share/my_pkg/package.xml

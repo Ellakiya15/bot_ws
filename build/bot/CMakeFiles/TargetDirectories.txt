@@ -1,0 +1,9 @@
+/home/ellakiya/dev_ws/build/bot/CMakeFiles/uninstall.dir
+/home/ellakiya/dev_ws/build/bot/CMakeFiles/bot_uninstall.dir
+/home/ellakiya/dev_ws/build/bot/CMakeFiles/test.dir
+/home/ellakiya/dev_ws/build/bot/CMakeFiles/edit_cache.dir
+/home/ellakiya/dev_ws/build/bot/CMakeFiles/rebuild_cache.dir
+/home/ellakiya/dev_ws/build/bot/CMakeFiles/list_install_components.dir
+/home/ellakiya/dev_ws/build/bot/CMakeFiles/install.dir
+/home/ellakiya/dev_ws/build/bot/CMakeFiles/install/local.dir
+/home/ellakiya/dev_ws/build/bot/CMakeFiles/install/strip.dir

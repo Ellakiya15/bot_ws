@@ -1,0 +1,20 @@
+[0.708s] Invoking command in '/home/ellakiya/dev_ws/build/my_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ellakiya/dev_ws/build/my_pkg -- -j4 -l4
+[1.561s] Invoked command in '/home/ellakiya/dev_ws/build/my_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ellakiya/dev_ws/build/my_pkg -- -j4 -l4
+[1.590s] Invoking command in '/home/ellakiya/dev_ws/build/my_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ellakiya/dev_ws/build/my_pkg
+[1.598s] -- Install configuration: ""
+[1.641s] -- Up-to-date: /home/ellakiya/dev_ws/install/my_pkg/share/ament_index/resource_index/package_run_dependencies/my_pkg
+[1.641s] -- Up-to-date: /home/ellakiya/dev_ws/install/my_pkg/share/ament_index/resource_index/parent_prefix_path/my_pkg
+[1.641s] -- Up-to-date: /home/ellakiya/dev_ws/install/my_pkg/share/my_pkg/environment/ament_prefix_path.sh
+[1.642s] -- Up-to-date: /home/ellakiya/dev_ws/install/my_pkg/share/my_pkg/environment/ament_prefix_path.dsv
+[1.642s] -- Up-to-date: /home/ellakiya/dev_ws/install/my_pkg/share/my_pkg/environment/path.sh
+[1.642s] -- Up-to-date: /home/ellakiya/dev_ws/install/my_pkg/share/my_pkg/environment/path.dsv
+[1.642s] -- Up-to-date: /home/ellakiya/dev_ws/install/my_pkg/share/my_pkg/local_setup.bash
+[1.642s] -- Up-to-date: /home/ellakiya/dev_ws/install/my_pkg/share/my_pkg/local_setup.sh
+[1.642s] -- Up-to-date: /home/ellakiya/dev_ws/install/my_pkg/share/my_pkg/local_setup.zsh
+[1.642s] -- Up-to-date: /home/ellakiya/dev_ws/install/my_pkg/share/my_pkg/local_setup.dsv
+[1.643s] -- Installing: /home/ellakiya/dev_ws/install/my_pkg/share/my_pkg/package.dsv
+[2.856s] -- Up-to-date: /home/ellakiya/dev_ws/install/my_pkg/share/ament_index/resource_index/packages/my_pkg
+[2.856s] -- Up-to-date: /home/ellakiya/dev_ws/install/my_pkg/share/my_pkg/cmake/my_pkgConfig.cmake
+[2.856s] -- Up-to-date: /home/ellakiya/dev_ws/install/my_pkg/share/my_pkg/cmake/my_pkgConfig-version.cmake
+[2.856s] -- Up-to-date: /home/ellakiya/dev_ws/install/my_pkg/share/my_pkg/package.xml
+[2.859s] Invoked command in '/home/ellakiya/dev_ws/build/my_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ellakiya/dev_ws/build/my_pkg

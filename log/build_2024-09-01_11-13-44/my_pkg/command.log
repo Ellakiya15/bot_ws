@@ -1,0 +1,4 @@
+Invoking command in '/home/ellakiya/dev_ws/build/my_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ellakiya/dev_ws/build/my_pkg -- -j4 -l4
+Invoked command in '/home/ellakiya/dev_ws/build/my_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ellakiya/dev_ws/build/my_pkg -- -j4 -l4
+Invoking command in '/home/ellakiya/dev_ws/build/my_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ellakiya/dev_ws/build/my_pkg
+Invoked command in '/home/ellakiya/dev_ws/build/my_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ellakiya/dev_ws/build/my_pkg

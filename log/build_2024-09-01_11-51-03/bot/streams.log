@@ -1,0 +1,28 @@
+[0.031s] Invoking command in '/home/ellakiya/dev_ws/build/bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ellakiya/dev_ws/build/bot -- -j4 -l4
+[0.139s] Invoked command in '/home/ellakiya/dev_ws/build/bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ellakiya/dev_ws/build/bot -- -j4 -l4
+[0.291s] Invoking command in '/home/ellakiya/dev_ws/build/bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ellakiya/dev_ws/build/bot
+[0.318s] -- Install configuration: ""
+[0.318s] -- Up-to-date: /home/ellakiya/dev_ws/install/bot/share/bot//launch
+[0.319s] -- Installing: /home/ellakiya/dev_ws/install/bot/share/bot//launch/trial.launch.py
+[0.319s] -- Installing: /home/ellakiya/dev_ws/install/bot/share/bot//launch/gazebo.launch.py
+[0.319s] -- Up-to-date: /home/ellakiya/dev_ws/install/bot/share/bot//launch/bot.launch.py
+[0.320s] -- Up-to-date: /home/ellakiya/dev_ws/install/bot/share/bot//launch/rviz.launch.py
+[0.320s] -- Up-to-date: /home/ellakiya/dev_ws/install/bot/share/bot//urdf
+[0.320s] -- Up-to-date: /home/ellakiya/dev_ws/install/bot/share/bot//urdf/bot.urdf
+[0.320s] -- Up-to-date: /home/ellakiya/dev_ws/install/bot/share/bot//urdf/my_robot.urdf
+[0.320s] -- Up-to-date: /home/ellakiya/dev_ws/install/bot/share/ament_index/resource_index/package_run_dependencies/bot
+[0.321s] -- Up-to-date: /home/ellakiya/dev_ws/install/bot/share/ament_index/resource_index/parent_prefix_path/bot
+[0.321s] -- Up-to-date: /home/ellakiya/dev_ws/install/bot/share/bot/environment/ament_prefix_path.sh
+[0.321s] -- Up-to-date: /home/ellakiya/dev_ws/install/bot/share/bot/environment/ament_prefix_path.dsv
+[0.322s] -- Up-to-date: /home/ellakiya/dev_ws/install/bot/share/bot/environment/path.sh
+[0.322s] -- Up-to-date: /home/ellakiya/dev_ws/install/bot/share/bot/environment/path.dsv
+[0.322s] -- Up-to-date: /home/ellakiya/dev_ws/install/bot/share/bot/local_setup.bash
+[0.322s] -- Up-to-date: /home/ellakiya/dev_ws/install/bot/share/bot/local_setup.sh
+[0.323s] -- Up-to-date: /home/ellakiya/dev_ws/install/bot/share/bot/local_setup.zsh
+[0.323s] -- Up-to-date: /home/ellakiya/dev_ws/install/bot/share/bot/local_setup.dsv
+[0.323s] -- Installing: /home/ellakiya/dev_ws/install/bot/share/bot/package.dsv
+[0.323s] -- Up-to-date: /home/ellakiya/dev_ws/install/bot/share/ament_index/resource_index/packages/bot
+[0.323s] -- Up-to-date: /home/ellakiya/dev_ws/install/bot/share/bot/cmake/botConfig.cmake
+[0.324s] -- Up-to-date: /home/ellakiya/dev_ws/install/bot/share/bot/cmake/botConfig-version.cmake
+[0.330s] -- Up-to-date: /home/ellakiya/dev_ws/install/bot/share/bot/package.xml
+[0.346s] Invoked command in '/home/ellakiya/dev_ws/build/bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ellakiya/dev_ws/build/bot
