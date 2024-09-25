@@ -1,9 +1,0 @@
-/home/ellakiya/dev_ws/build/my_pkg/CMakeFiles/uninstall.dir
-/home/ellakiya/dev_ws/build/my_pkg/CMakeFiles/my_pkg_uninstall.dir
-/home/ellakiya/dev_ws/build/my_pkg/CMakeFiles/test.dir
-/home/ellakiya/dev_ws/build/my_pkg/CMakeFiles/edit_cache.dir
-/home/ellakiya/dev_ws/build/my_pkg/CMakeFiles/rebuild_cache.dir
-/home/ellakiya/dev_ws/build/my_pkg/CMakeFiles/list_install_components.dir
-/home/ellakiya/dev_ws/build/my_pkg/CMakeFiles/install.dir
-/home/ellakiya/dev_ws/build/my_pkg/CMakeFiles/install/local.dir
-/home/ellakiya/dev_ws/build/my_pkg/CMakeFiles/install/strip.dir
