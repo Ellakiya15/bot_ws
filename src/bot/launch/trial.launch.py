@@ -1,5 +1,5 @@
 import launch
-from launch.substitutions import Command, LaunchConfiguration
+from launch.substitutions import LaunchConfiguration
 import launch_ros
 import os
 
@@ -9,7 +9,7 @@ def generate_launch_description():
     
     with open(urdfModelPath,'r') as infp:
     	robot_desc = infp.read()
-        
+
     params = {'robot_description': robot_desc}
     
     robot_state_publisher_node =launch_ros.actions.Node(
