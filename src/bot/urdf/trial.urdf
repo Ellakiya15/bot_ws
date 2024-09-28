@@ -13,6 +13,8 @@
     <!-- Base Footprint -->
     <link name="base_footprint"/>
 
+    <!-- link name="base_footprint"/ -->
+
     <!-- Base Link -->
     <link name="base_link">
         <inertial>
