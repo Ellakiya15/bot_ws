@@ -14,6 +14,8 @@ find_package(ament_cmake REQUIRED)
 install(DIRECTORY 
   launch
   urdf
+  world
+  models
   DESTINATION share/${PROJECT_NAME}/
 )
 
