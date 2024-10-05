@@ -19,7 +19,7 @@ differential_bot_ws/                # Root directory of the ROS 2 workspace
 ### Package Details
 #### Bot
 This package contains everything needed to simulate and control the differential robot. The key components of the package are:
-**Launch files**: For starting Gazebo and RViz simulations.
-**Models**: Gazebo-specific model definitions.
-**URDF**: Robot description for use in Gazebo and RViz.
-**World**: Custom or default Gazebo worlds to simulate the robot’s interaction with its environment.
+1. **Launch files**: For starting Gazebo and RViz simulations.
+2. **Models**: Gazebo-specific model definitions.
+3. **URDF**: Robot description for use in Gazebo and RViz.
+4. **World**: Custom or default Gazebo worlds to simulate the robot’s interaction with its environment.
