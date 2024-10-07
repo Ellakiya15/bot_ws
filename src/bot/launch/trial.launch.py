@@ -10,6 +10,7 @@ def generate_launch_description():
     with open(urdfModelPath,'r') as infp:
     	robot_desc = infp.read()
 
+    #params = {'robot_description': robot_desc}
     params = {'robot_description': robot_desc}
     
     robot_state_publisher_node =launch_ros.actions.Node(
