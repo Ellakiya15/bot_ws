@@ -63,6 +63,40 @@
         </collision>
     </link>
 
+    <!-- Gazebo plugin for Lidar Sensor -->
+    <gazebo reference="lidar">
+        <sensor type="ray" name="lidar_sensor">
+            <pose>0 0 0 0 0 0</pose>
+            <visualize>true</visualize>
+            <ray>
+                <scan>
+                    <horizontal>
+                        <samples>720</samples>
+                        <resolution>1</resolution>
+                        <min_angle>-1.5708</min_angle>  <!-- -90 degrees -->
+                        <max_angle>1.5708</max_angle>   <!-- 90 degrees -->
+                    </horizontal>
+                </scan>
+                <range>
+                    <min>0.05</min>
+                    <max>10.0</max>
+                </range>
+                <noise>
+                    <type>gaussian</type>
+                    <mean>0.0</mean>
+                    <stddev>0.01</stddev>
+                </noise>
+            </ray>
+            <plugin name="gazebo_ros_laser" filename="libgazebo_ros_laser.so">
+                <ros>
+                    <remapping>scan:=/scan</remapping>  <!-- Topic name for scan data -->
+                </ros>
+                <topicName>/scan</topicName>
+                <frameName>lidar</frameName>
+            </plugin>
+        </sensor>
+    </gazebo>
+
     <!-- Caster Wheel -->
     <link name="caster_wheel">
         <inertial>

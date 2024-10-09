@@ -1,0 +1,1 @@
+- git: {local-name: src/my_pkg, uri: 'https://github.com/aws-robotics/aws-robomaker-small-warehouse-world.git', version: master}
